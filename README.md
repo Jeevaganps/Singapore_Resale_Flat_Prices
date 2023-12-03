@@ -5,9 +5,6 @@
 **Domain** : Real Estate
 
 
-# project website link: http://localhost:8501/
-
-
 ## Prerequisites
 1. **Python** -- Programming Language
 2. **pandas** -- Python Library for Data Visualization
